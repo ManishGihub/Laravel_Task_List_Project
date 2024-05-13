@@ -1,5 +1,13 @@
 # Laravel_Task_List_Project
-This is my first Laravel project which is Task List Project
+This is my first Laravel project which is Task List Project.
+
+# Features
+
+1) This Task List Project was built using HTML, CSS, and Laravel(PHP Backend Framework).<br><br>
+2) Here User can create a new task, Update the task, and delete the task.<br><br>
+3) All changes will happen in the MYSQL database.<br><br>
+4) The project has functionalities like task input validation and an updation message-giving facility using popups.<br><br>
+5) The Dependencies/Technologies required for this project are PHP, Composer, Docker/MYSQL, Tailwind CSS, and Alpine.js.<br><br>
 
 ![1](https://github.com/ManishGihub/Laravel_Task_List_Project/assets/102681545/045a4f28-c188-414d-a88a-8529ee32dc73)
 
